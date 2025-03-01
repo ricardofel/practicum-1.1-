@@ -1,0 +1,7 @@
+[debug] > Exec(sbt:/C:/Users/ricar/Desktop/practicum/ejecutable_proyectoIntegrador/proyectoIntegrador_ejecutable/>, None, None)
+[error] Expected key
+[error] Expected '*'
+[error] Expected 'Zero'
+[error] sbt:/C:/Users/ricar/Desktop/practicum/ejecutable_proyectoIntegrador/proyectoIntegrador_ejecutable/>
+[error]     ^
+[debug] > Exec(idea-shell, None, None)

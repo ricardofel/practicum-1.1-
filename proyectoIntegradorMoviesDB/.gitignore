@@ -1,0 +1,4 @@
+*.conf
+pi_movies_complete.csv
+pi_movies_limpio.csv
+insertIntoFiles/

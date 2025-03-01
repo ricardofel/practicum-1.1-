@@ -1,0 +1,168 @@
+JSONS PELICULAS
+BELONG_TO_COLLECTION (JSON):
+{
+  "id": 96665,
+  "name": "Dumb and Dumber Collection",
+  "poster_path": "/fdB86tl7SKIBWZzm0CbrYjOdE1K.jpg",
+  "backdrop_path": "/saUnj5K6buVafDfLfTozDH2eqdC.jpg"
+}
+
+GENRES (ARREGLO DE JSON):
+[
+  {
+    "id": 35,
+    "name": "Comedy"
+  },
+  {
+    "id": 18,
+    "name": "Drama"
+  },
+  {
+    "id": 10749,
+    "name": "Romance"
+  }
+]
+
+PRODUCTION_COMPANIES (ARREGLO DE JSON):
+[
+  {
+    "name": "Handmade Films Ltd.",
+    "id": 146
+  },
+  {
+    "name": "Summit Entertainment",
+    "id": 491
+  },
+  {
+    "name": "PolyGram Filmed Entertainment",
+    "id": 1382
+  },
+  {
+    "name": "SKA Films",
+    "id": 13419
+  },
+  {
+    "name": "The Steve Tisch Company",
+    "id": 21920
+  }
+]
+
+PRODUCTION_COUNTRIES (ARREGLO DE JSON):
+[
+  {
+    "iso_3166_1": "GB",
+    "name": "United Kingdom"
+  },
+  {
+    "iso_3166_1": "US",
+    "name": "United States of America"
+  }
+]
+
+SPPOKEN_LANGUAGES (ARREGLO DE JSON):
+[
+  {
+    "iso_639_1": "en",
+    "name": "English"
+  },
+  {
+    "iso_639_1": "it",
+    "name": "Italiano"
+  }
+]
+
+KEYWORDS (ARREGLO DE JSON):
+[
+  {
+    "id": 5565,
+    "name": "biography"
+  },
+  {
+    "id": 6165,
+    "name": "historical figure"
+  }
+]
+
+CAST (ARREGLO DE JSON):
+[
+  {
+    "cast_id": 5,
+    "character": "",
+    "credit_id": "52fe4a13c3a36847f81b792f",
+    "gender": 0,
+    "id": 44256,
+    "name": "Juan Calvo",
+    "order": 0,
+    "profile_path": null
+  },
+  {
+    "cast_id": 6,
+    "character": "",
+    "credit_id": "54475b0a0e0a2672d70018c4",
+    "gender": 1,
+    "id": 1011126,
+    "name": "Estrellita Castro",
+    "order": 1,
+    "profile_path": "/zAAmymWPWrlbOizbmrfNhpWa85C.jpg"
+  },
+  {
+    "cast_id": 4,
+    "character": "",
+    "credit_id": "52fe4a13c3a36847f81b792b",
+    "gender": 0,
+    "id": 1028289,
+    "name": "Miguel Ligero",
+    "order": 2,
+    "profile_path": null
+  }
+]
+
+CREW (ARREGLO DE JSON):
+[
+  {
+    "credit_id": "52fe4a08c3a36847f81b4c3b",
+    "department": "Directing",
+    "gender": 2,
+    "id": 229263,
+    "job": "Director",
+    "name": "Benot Jacquot",
+    "profile_path": "/gQ9Mxt0uYIcFs0g1byxYqI2FoZx.jpg"
+  },
+  {
+    "credit_id": "54c28759c3a36814210102e9",
+    "department": "Writing",
+    "gender": 2,
+    "id": 63898,
+    "job": "Writer",
+    "name": "Jarame Beaujour",
+    "profile_path": null
+  },
+  {
+    "credit_id": "54c287629251416e6000d661",
+    "department": "Writing",
+    "gender": 2,
+    "id": 229263,
+    "job": "Writer",
+    "name": "Benot Jacquot",
+    "profile_path": "/gQ9Mxt0uYIcFs0g1byxYqI2FoZx.jpg"
+  }
+]
+
+RATINGS (ARREGLO DE JSON):
+[
+  {
+    "userId": 125499,
+    "rating": 3,
+    "timestamp": 1488145197
+  },
+  {
+    "userId": 2639,
+    "rating": 4,
+    "timestamp": 1368982173
+  },
+  {
+    "userId": 8659,
+    "rating": 3.5,
+    "timestamp": 1370554220
+  }
+]

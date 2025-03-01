@@ -1,0 +1,7 @@
+[debug] > Exec(sbt: proyectoIntegrador_ejecutable\project>, None, None)
+[error] Expected key
+[error] Expected '*'
+[error] Expected 'Zero'
+[error] sbt: proyectoIntegrador_ejecutable\project>
+[error]     ^
+[debug] > Exec(idea-shell, None, None)
