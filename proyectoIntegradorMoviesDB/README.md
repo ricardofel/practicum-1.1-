@@ -1,13 +1,5 @@
 # PROYECTO INTEGRADOR - PRACTICUM 1.1
 
-#### NOTA: EL PROYECTO SE ENCUENTRA EN LA CARPETA "proyectoIntegradorMoviesDB"
-
-### Integrantes
-- #### Ricardo Fabian Espinosa Largo
-- #### Carlos David Sanchez Carrion
-- #### Fernando Alonso Ocampo Gonzaga
-- #### Andres Israel Cuenca Cañar
-
 # Objetivos
 
 Desarrollar una **base de datos funcional y robusta** a partir de un dataset en formato `.csv` que contiene información sobre películas. Para lograr este propósito, se llevará a cabo un proceso detallado que incluye la **limpieza, transformación, estructuración y organización** de los datos, garantizando su **integridad, coherencia y accesibilidad**.
