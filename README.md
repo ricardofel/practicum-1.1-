@@ -1,12 +1,6 @@
 # PROYECTO INTEGRADOR - PRACTICUM 1.1
-
-#### NOTA: EL PROYECTO SE ENCUENTRA EN LA CARPETA "proyectoIntegradorMoviesDB"
-
-### Integrantes
-- #### Ricardo Fabian Espinosa Largo
-- #### Carlos David Sanchez Carrion
-- #### Fernando Alonso Ocampo Gonzaga
-- #### Andres Israel Cuenca Cañar
+> [!NOTE]
+> EL PROYECTO SE ENCUENTRA EN LA CARPETA "proyectoIntegradorMoviesDB/src/main"
 
 # Objetivos
 
